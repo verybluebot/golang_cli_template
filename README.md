@@ -3,7 +3,7 @@
 
 ```
 // get project files
-git clone git clone https://github.com/verybluebot/golang_cli_template.git
+git clone https://github.com/verybluebot/golang_cli_template.git
 ```
 
 Then `cd` into project root directory and use `make` utility to build the binary:
